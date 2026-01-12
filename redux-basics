@@ -1,0 +1,8 @@
+Redux: A state management library.
+Reducer: A function that updates state based on actions.
+dispatch: Sends actions to the reducer
+Slice: A slice is a collection of state + reducers + actions for a specific feature.
+
+
+Spread	Break values	
+Rest	Collect values

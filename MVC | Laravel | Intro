@@ -1,0 +1,4 @@
+Laravel is php framework, follows MVC archietecture.
+MVC: model, view, controller
+
+Controller: It is the central point that handles user request,views and models.

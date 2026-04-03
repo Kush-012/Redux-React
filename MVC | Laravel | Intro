@@ -4,3 +4,6 @@ MVC: model, view, controller
 Controller: It is the central point that handles user request,views and models.
 => Display views
 => handle database
+
+command to create controller
+php artisan make:controller UserController

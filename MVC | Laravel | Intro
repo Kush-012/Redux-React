@@ -12,3 +12,6 @@ Blade is a templating engine for running PHP code.
 
 Middleware: It serves between request and controllers
 It works for filtering req, checking authorisation and more.
+
+Types:
+Global, Route, Group middleware 

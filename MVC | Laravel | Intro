@@ -9,3 +9,6 @@ command to create controller
 php artisan make:controller UserController
 
 Blade is a templating engine for running PHP code.
+
+Middleware: It serves between request and controllers
+It works for filtering req, checking authorisation and more.
